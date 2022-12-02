@@ -70,7 +70,8 @@ int main(int argc, char *argv[])
 
     printf("Summation Complete. Duration: %f sec", time_spent);
 
-/* Use for printing:
+/*
+ * Use for printing:
     for (int i = 0; i < r; ++i){
         for (int j = 0; j < c; ++j) {
             printf("%f  ", arrA[i * c + j]);
