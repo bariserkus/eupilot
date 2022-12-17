@@ -94,7 +94,7 @@ int main(int argc, char *argv[])
  */
 
     printf("Matrix Multiplication Example\n");
-    int rA = 100, cA = 150, rB = cA, cB = 200;
+    int rA = 1000, cA = 1500, rB = cA, cB = 2000;
     int rC = rA, cC = cB;
     int nA = rA * cA, nB = rB * cB, nC = rC * cC;
 
